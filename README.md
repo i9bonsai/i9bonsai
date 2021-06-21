@@ -1,6 +1,7 @@
 <h1 align="center">Boonzai Planet #.0</h1>
 <img align="center" alt="photo banner" src="https://github.com/i9bonsai/i9bonsai/blob/main/Resized%20bannercompleted.png?raw=true">
-
+<p align="center">🤞🏻</p>
+<hr>
 <p float="left">
  <!-- Markdown version = 
  ![Aboot Photo Banner](https://github.com/i9bonsai/i9bonsai/blob/main/bannercompleted.png?raw=true) -->
