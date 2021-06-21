@@ -1,6 +1,5 @@
-<h1 align="center">Boonzai Planet #.0</h1>
+<h1 align="center">Boonzai Planet #.0 🤞🏻</h1>
 <img align="center" alt="photo banner" src="https://github.com/i9bonsai/i9bonsai/blob/main/Resized%20bannercompleted.png?raw=true">
-<img alt="fingers crossed light tone" align="center" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/81/hand-with-index-and-middle-fingers-crossed_emoji-modifier-fitzpatrick-type-1-2_1f91e-1f3fb_1f3fb.png">
 <hr>
 <p float="left">
  <!-- Markdown version = 
