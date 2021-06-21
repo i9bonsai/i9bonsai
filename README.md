@@ -1,5 +1,4 @@
-![Aboot Photo Banner](i9bonsai/bannercompleted.png
-)
+![Aboot Photo Banner](https://github.com/i9bonsai/i9bonsai/blob/main/bannercompleted.png?raw=true)
 
 ### Hi there 👋
 
