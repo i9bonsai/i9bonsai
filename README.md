@@ -1,6 +1,5 @@
 <h1 align="center">Boonzai Planet #.0</h1>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=i9bonsai&count_private=true&show_icons=true&theme=jolly" alt="Bio Banner">
-<hr>
+<img align="center" alt="photo banner" src="https://github.com/i9bonsai/i9bonsai/blob/main/Resized%20bannercompleted.png?raw=true">
 
 <!-- Markdown version = 
 ![Aboot Photo Banner](https://github.com/i9bonsai/i9bonsai/blob/main/bannercompleted.png?raw=true) -->
