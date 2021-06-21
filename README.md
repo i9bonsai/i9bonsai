@@ -1,3 +1,5 @@
+<h1 align="center">Boonzai Planet</h1>
+
 ![Aboot Photo Banner](https://github.com/i9bonsai/i9bonsai/blob/main/bannercompleted.png?raw=true)
 
 ### Hi there 👋
