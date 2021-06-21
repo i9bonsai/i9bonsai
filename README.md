@@ -1,13 +1,20 @@
-<h1 align="center">Boonzai Planet</h1>
+<h1 align="center">Boonzai Planet #.0</h1>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=i9bonsai&count_private=true&show_icons=true&theme=jolly" alt="Bio Banner">
+<hr>
 
-![Aboot Photo Banner](https://github.com/i9bonsai/i9bonsai/blob/main/bannercompleted.png?raw=true)
+<!-- Markdown version = 
+![Aboot Photo Banner](https://github.com/i9bonsai/i9bonsai/blob/main/bannercompleted.png?raw=true) -->
+ 
+<img align="center" alt="Booznai Stats" src="https://github-readme-stats.vercel.app/api?username=i9bonsai&count_private=true&show_icons=true&theme=jolly">
 
-### Hi there 👋
-
+<!-- Markdown Version = 
 [![Booznai Stats x.X](https://github-readme-stats.vercel.app/api?username=i9bonsai&count_private=true&show_icons=true&theme=jolly)
-](https://github.com/anuraghazra/github-readme-stats)
+](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i9bonsai&theme=jolly">
+
+<!-- Markdown Version = 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=jolly)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
