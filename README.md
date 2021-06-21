@@ -2,7 +2,8 @@
 
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=i9bonsai)](https://github.com/anuraghazra/github-readme-stats)
+[![Booznai Stats x.X](https://github-readme-stats.vercel.app/api?username=i9bonsai&count_private=true&show_icons=true)
+](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
