@@ -17,6 +17,11 @@
 
  <!-- Markdown Version = 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=jolly)](https://github.com/anuraghazra/github-readme-stats) -->
+
+ <img align="center" alt="i9bonsai.github.io repo card" src="https://github-readme-stats.vercel.app/api/pin/?username=i9bonsai&repo=i9bonsai.github.io">
+
+ <img align="center" alt="Oksii Alpha Build repo card" src="https://github-readme-stats.vercel.app/api/pin/?username=i9bonsai&repo=Oksii-Concept-Build">
+ 
 </p>
 
 
