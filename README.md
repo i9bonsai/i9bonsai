@@ -21,7 +21,6 @@
 
  <img align="center" alt="i9bonsai.github.io repo card" src="https://github-readme-stats.vercel.app/api/pin/?username=i9bonsai&repo=i9bonsai.github.io&theme=jolly">
 
- <img align="center" alt="Oksii Alpha Build repo card" src="https://github-readme-stats.vercel.app/api/pin/?username=i9bonsai&repo=Oksii-Concept-Build&theme=jolly">
  
 </p>
 
