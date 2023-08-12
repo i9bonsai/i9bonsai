@@ -1,4 +1,4 @@
-<h1 align="center">Boonzai Planet #.0 🤞🏻</h1>
+<h1 align="center">Little Bonsai Planet #.0 🤞🏻</h1>
 <img align="center" alt="photo banner" src="https://github.com/i9bonsai/i9bonsai/blob/main/Resized%20bannercompleted.png?raw=true">
 <h2 align="center">Aboot Me</h2>
 <p style="padding-left:15px;padding-right:15px;">Hi my name is bonsai, I've been developing for 3 years now. Although 3 years maybe a lot of time, I usually have interest and motivation for a couple months then stop for a moment. I'm still a beginner and any invite or request to collaborate would be great and if you could personally teach I'td be much appreciated.</p>
